@@ -8,16 +8,27 @@ What you need: 1 deck of playing cards without jokers, a pen and a piece of pape
 Values of card: 2 is lowest, A is highest.
 
 [0. Goal](#goal)
+
 [1. Discover](#discover)
+
 [ 1.1. Before you start](#beforestart)
+
 [ 1.2. Your turn](#turn)
+
 [ 1.3. Draw cards](#cards)
+
 [ 1.4. Make ready an expedition](#makexp)
+
 [ 1.5. Move an expedition](#movexp)
+
 [  1.5.1. ♣ - Storm](#storm)
+
 [  1.5.2. ♠ - Windless](#windless)
+
 [  1.5.3. ♥ - Pirates](#pirates)
+
 [  1.5.4. ♦ - Treasure](#treasure)
+
 
 ## Goal<a name="goal"></a>
 The game consists of two stages: 1 - Discoverer (not yet implemented), 2 - Ferries. The goal is to get the most points, which you get by the number of discovered regions, and later, for number of passangers.
