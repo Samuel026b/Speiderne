@@ -7,7 +7,9 @@ Players: greater than 1.
 What you need: 1 deck of playing cards without jokers, a pen and a piece of paper to write down points on (if you are more than 3, it is recommended you use more than 1 deck).
 Values of card: 2 is lowest, A is highest.
 
-## Goal
+[1. Goal](#goal)
+
+## Goal<a name="goal"></a>
 The game consists of two stages: 1 - Discoverer (not yet implemented), 2 - Ferries. The goal is to get the most points, which you get by the number of discovered regions, and later, for number of passangers.
 # Discoverer
 ## Before you start
