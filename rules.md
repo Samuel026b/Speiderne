@@ -12,23 +12,25 @@ Values of card: 2 is lowest, A is highest.
 
 [1. Discoverer](#discover)
 
-[- 1.1. Before you start](#beforestart)
+[> 1.1. Before you start](#beforestart)
 
-[- 1.2. Your turn](#turn)
+[> 1.2. Your turn](#turn)
 
-[- 1.3. Draw cards](#cards)
+[> 1.3. Draw cards](#cards)
 
-[- 1.4. Make ready an expedition](#makexp)
+[> 1.4. Prepare an expedition](#makexp)
 
-[- 1.5. Move an expedition](#movexp)
+[> 1.5. Move an expedition](#movexp)
 
-[- - 1.5.1. ♣ - Storm](#storm)
+[>>  1.5.1. ♣ - Storm](#storm)
 
-[- - 1.5.2. ♠ - Windless](#windless)
+[>>  1.5.2. ♠ - Windless](#windless)
 
-[- - 1.5.3. ♥ - Pirates](#pirates)
+[>>  1.5.3. ♥ - Pirates](#pirates)
 
-[- - 1.5.4. ♦ - Treasure](#treasure)
+[>>  1.5.4. ♦ - Treasure](#treasure)
+
+[> 1.6. Points](#points)
 
 
 ## Goal<a name="goal"></a>
@@ -55,8 +57,8 @@ If there's not enough resources to save the expedition, it might get sunk! There
 ### ♠ - Windless<a name="windless"></a>
 What a pity: no wind! You will have to fund this expedition with 2 cards, instead of 1 this turn.
 ### ♥ - Pirates<a name="pirates"></a>
-We encounter an island! And then we see pirates... These pirates plunder your expedition: they won't stop until they get enough. Take cards from the expedition until the sum of the cards is more than the value of the pirate-card. These cards go to the discard pile. Same as the storm, the used cards (what you took away from your expedition, however, not the pirate-card itself is to be left on the "map") are thrown away to the discard pile
+We encounter an island! And then we see pirates... These pirates plunder your expedition: they won't stop until they get enough. Take cards from the expedition until the sum of the cards is more than the value of the pirate-card. These cards go to the discard pile. Same as the storm, the used cards (what you took away from your expedition, however, the pirate-card itself is to be left on the "map") are thrown away to the discard pile.
 ### ♦ - Treasure<a name="treasure"></a>
 An island! Seems like there should be treasure here... However, that doesn't always end well. If the island is too big (value of the treasure-card is more than 5), you loose a part of your expedition (throw a card to the discard pile). But you get your treasure, though! (take one card from the main deck)
-## Points
-You get points based on the action cards you've uncovered ...?
+## Points<a name="points"></a>
+You get 1 point for each region you discover.
