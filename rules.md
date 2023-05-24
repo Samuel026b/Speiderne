@@ -1,5 +1,6 @@
 # Speiderne
 - a card game by Samuel Brox.
+
 It's a game where you will start expeditions, fight pirates, find treasures, and, eventually, building your own ferries; and all with the use of only a 52-card deck, a pen and some paper! (Magic, isn't it?)
 
 Players: greater than 1.
